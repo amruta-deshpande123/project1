@@ -9,7 +9,11 @@ pyflakes==3.0.1
 pytz==2022.7.1
 sqlparse==0.4.3
 <<<<<<< HEAD
+<<<<<<< HEAD
 #commit
 =======
 # comment
 >>>>>>> a2ef630f360b50611933a70e01ccf58c2f184115
+=======
+black
+>>>>>>> ddb37471566071207d077d532fbe8266a90ef67c
